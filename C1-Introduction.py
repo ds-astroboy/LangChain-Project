@@ -75,7 +75,7 @@ question = "Which NFL team won the Super Bowl in the 2010 season?"
 
 ############################# OpenAI API
 
-os.environ['OPENAI_API_KEY'] = 'OpenAI_API_KEY'
+os.environ['OPENAI_API_KEY'] = 'OPENAI_API_KEY'
 
 davinci = OpenAI(model_name='text-davinci-003')
 

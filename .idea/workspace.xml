@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de57933d-f2b3-4ee6-9a10-f71ccdd0300e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C1-Introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LangChain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LangChain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="de57933d-f2b3-4ee6-9a10-f71ccdd0300e" name="Changes" comment="add: C1-Introduction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1-Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/C1-Introduction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2R0HlHxc7fBRiVA26CwnOTqZF7p" />
   <component name="ProjectLevelVcsManager">
@@ -86,12 +88,24 @@
       <workItem from="1686380238099" duration="31000" />
       <workItem from="1686511212358" duration="643000" />
       <workItem from="1686545674754" duration="366000" />
-      <workItem from="1686546056128" duration="3557000" />
+      <workItem from="1686546056128" duration="4133000" />
     </task>
+    <task id="LOCAL-00001" summary="add: C1-Introduction">
+      <created>1686550143973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686550143973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: C1-Introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: C1-Introduction" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LangChain$C1_Introduction.coverage" NAME="C1-Introduction Coverage Results" MODIFIED="1686550076545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
